@@ -1,18 +1,15 @@
 
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
 //アンドロイドで実行可能なホッケーのゲームです。
 //一人でもコンピューターと対戦できるように作ってみました。
 //3段階の難易度があります。
 
-public class MainActivity extends AppCompatActivity {
+ public class MainActivity extends AppCompatActivity {
     CustomView cv;
     SensorManager sm;
     SEL sel;
