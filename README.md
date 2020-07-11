@@ -1,6 +1,5 @@
-アンドロイドで遊べるホッケーのゲームです。
-一人でもコンピューターと対戦できるように作ってみました
-3段階の難易度があります。
+使用言語はJavaです。アンドロイドで遊べるホッケーのゲームで、3段階の強さを持ったコンピューターと
+対戦することができます。
 
     public class MainActivity extends AppCompatActivity {
     CustomView cv;
